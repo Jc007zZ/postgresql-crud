@@ -25,10 +25,6 @@ Front-end that works well with this Back-end
 
 > [React Client](https://www.bezkoder.com/react-crud-web-api/) / [React Redux Client](https://www.bezkoder.com/react-redux-crud-example/)
 
-## Demo Video
-This is our Node.js PostgreSQL CRUD example using Express & Sequelize application demo, test Rest Apis with Postman.
-
-[![Node.js PostgreSQL CRUD example Github](http://img.youtube.com/vi/x1pZHN_sjGk/0.jpg)](http://www.youtube.com/watch?v=x1pZHN_sjGk "Node.js PostgreSQL CRUD example Github")
 
 ### Test the APIs
 Run our Node.js application with command: `node server.js`.
